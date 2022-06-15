@@ -1,9 +1,13 @@
-git branch
+git branch - 
 git remote add origin https://... - добавление ссылки (например, на гитхаб) в "Origin"
-git status
-git add File.md
-git commit -m '...'
-git push origin branch - отправление на гитхаб в "Origin" в ветку "branch"
-git clone https://... - копирование файлов из репозитория на локальный компьютер
+git status - 
+git add File.md - добавление файла 
 git add -A - добавить все файлы в репозитории (быстрая запись) (и выше, и ниже)
 git add . - добавляет все файлы на этом уровне и ниже
+git commit -m '...' - 
+git push origin branch - отправление на гитхаб в "Origin" в ветку "branch"
+git clone https://... - копирование файлов из репозитория на локальный компьютер
+git fetch - выкачивает все ветки с изменениями из гита на локальный компьютер
+git checkout branch -  соединяется с веткой branch
+git checkout -b branch - создание новой ветки branch и переход в нее
+git pull - 
