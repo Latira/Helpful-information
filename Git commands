@@ -1,0 +1,9 @@
+git branch
+git remote add origin https://... - добавление ссылки (например, на гитхаб) в "Origin"
+git status
+git add File.md
+git commit -m '...'
+git push origin branch - отправление на гитхаб в "Origin" в ветку "branch"
+git clone https://... - копирование файлов из репозитория на локальный компьютер
+git add -A - добавить все файлы в репозитории (быстрая запись) (и выше, и ниже)
+git add . - добавляет все файлы на этом уровне и ниже
