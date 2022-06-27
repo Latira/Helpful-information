@@ -13,3 +13,5 @@ git checkout branch -  соединяется с веткой branch
 git checkout -b branch - создание новой ветки branch и переход в нее
 git pull - (делать из ветки main) синхронизация удаленного содержимого
 git cherry-pick #commit - забирает определенный коммит в свою ветку
+git config user.name "Latira"
+git config user.email "Latira@g.com"
