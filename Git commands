@@ -11,8 +11,8 @@ git clone https://...       - копирование удаленного реп
 git commit                  - "фиксация" изменений, который были уже отложены в staging area (команда git add)
 git commit -m '...'         - 
 git commit -- amend         - внесение изменений в последний коммит
-git config user.name "Latira" (git config --global user.name "Latira")
-git config user.email "Latira@g.com" (git config --global user.email "Latira@g.com")
+git config user.name "Latira" (git config --global user.name "Linda")
+git config user.email "Latira@g.com" (git config --global user.email "Linda@g.com")
 git config --global --list (список всех глобальных конфигов) (--local - локальных)
 git diff                    - выводит изменения, не внесенные отдельным коммитом
 git fetch                   - выкачивает все ветки с изменениями из гита на локальный компьютер, без обновления локального репозитория
